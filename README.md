@@ -3,7 +3,8 @@ a bot xd
 
 steps to run
 
-```git clone https://github.com/Venxz-discord/discord-new-bot
+```
+git clone https://github.com/Venxz-discord/discord-new-bot
 ```
 
 npm install
